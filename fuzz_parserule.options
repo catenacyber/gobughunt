@@ -1,0 +1,2 @@
+[env]
+GODEBUG=cgocheck=2
