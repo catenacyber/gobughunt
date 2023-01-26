@@ -1,2 +1,2 @@
 [env]
-GODEBUG=asyncpreemptoff=1
+GODEBUG=gccheckmark=1
